@@ -1,0 +1,4 @@
+
+
+void call_global();
+
